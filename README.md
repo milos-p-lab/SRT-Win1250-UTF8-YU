@@ -98,6 +98,7 @@ If you have subtitles in other encodings (e.g. Windows-1252), adjust the script 
 - SRT
 - encoding
 - converter
+- convertor
 - PowerShell
 - UTF-8
 - Windows-1250
@@ -112,6 +113,6 @@ MIT License – © 2025 Miloš Perunović
 
 <!--
 Related terms:
-srt encoding converter, srt convertor, powershell srt to utf8, convert srt cp1250 to utf8,
+srt encoding converter, srt encoding convertor, srt convertor, powershell srt to utf8, convert srt cp1250 to utf8,
 subtitle encoding converter, subtitle convertor, ex-yu subtitles, powershell script for srt
 -->
