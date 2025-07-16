@@ -13,6 +13,8 @@
     Author: Miloš Perunović
     Version: 1.2.0
     Date: 2025-07-13
+    License: MIT
+    This script is provided "as is" without warranty of any kind.
 #>
 
 [CmdletBinding()]

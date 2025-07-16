@@ -10,7 +10,7 @@ Automatically creates backup `.bak` files before converting.
 Ideal for fixing character encoding issues in media players like VLC, Plex, and Kodi.
 
 > ✍️ **Author:** Miloš Perunović  
-> 🗓️ **Date:** 2025-07-13
+> 🗓️ **Date:** 2025-07-16
 
 ---
 
@@ -19,6 +19,7 @@ Ideal for fixing character encoding issues in media players like VLC, Plex, and 
 PowerShell skripta koja pretražuje folder i podfoldere, pronalazi `.srt` fajlove i automatski ih konvertuje iz Windows-1250 (često korišćen kod starijih titlova na ex-YU prostoru) u UTF-8. Ako je fajl već u UTF-8, skripta ga preskače.
 
 Koristite ovu skriptu kako bi:
+
 - riješili probleme sa prikazom slova (č, ć, š, ž, đ…)
 - pripremili titlove za moderni softver i uređaje (Plex, Kodi, VLC…)
 
@@ -60,6 +61,7 @@ Run the script in PowerShell:
 ## 💡 Why Convert to UTF-8?
 
 UTF-8:
+
 - works everywhere (Windows, macOS, Linux)
 - avoids garbled characters like Ä, æ, etc.
 - is supported by modern media players like Plex, Kodi, VLC
@@ -78,6 +80,7 @@ Many older subtitles from ex-YU scene groups are still encoded in Windows-1250. 
 ## 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome!
+
 - Open an Issue if you encounter bugs or have feature ideas.
 - Create a Pull Request if you'd like to improve the script.
 - Share feedback or examples of how you're using the script!
