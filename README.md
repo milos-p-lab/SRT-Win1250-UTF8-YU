@@ -1,4 +1,4 @@
-# 🎬 SRT Encoding Converter (PowerShell)
+# 🎬 SRT Encoding Converter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PowerShell](https://img.shields.io/badge/powershell-5.1+-blue.svg)](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2)
 
