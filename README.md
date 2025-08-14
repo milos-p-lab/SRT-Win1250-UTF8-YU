@@ -27,7 +27,7 @@ Koristite ovu skriptu kako bi:
 
 ---
 
-## 🚀 Features
+## ✅ Features
 
 - Automatically detects if `.srt` file is already UTF-8 encoded.
 - Converts all `.srt` files in a folder (including subfolders).
@@ -46,7 +46,7 @@ Run the script in PowerShell:
 
 ---
 
-## ✅ How It Works
+## ⚙️ How It Works
 
 - The script scans all `.srt` files under the specified folder.
 - Checks the current encoding of each file.
@@ -58,7 +58,7 @@ Run the script in PowerShell:
 
 ---
 
-## 💡 Why Convert to UTF-8?
+## ❔ Why Convert to UTF-8?
 
 UTF-8:
 
@@ -87,7 +87,7 @@ Contributions, suggestions, and improvements are welcome!
 
 ---
 
-## ℹ️ Note
+## 💡 Note
 
 This script is tailored for Windows-1250 subtitles typical for ex-YU languages.
 If you have subtitles in other encodings (e.g. Windows-1252), adjust the script accordingly.
@@ -98,6 +98,6 @@ If you have subtitles in other encodings (e.g. Windows-1252), adjust the script 
 
 ---
 
-## 📜 License
+## ⚖️ License
 
 MIT License – © 2025 Miloš Perunović
